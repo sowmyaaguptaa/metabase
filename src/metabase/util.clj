@@ -128,7 +128,7 @@
 (defn is-time?
   "Returns true if `V` is a Time object"
   [v]
-  (instance? Time v))
+  (and v (instance? Time v)))
 
 ;;; ## Date Stuff
 
