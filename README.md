@@ -1,5 +1,5 @@
 # Metabase
-Metabase is the easy, open source way for everyone in your company to ask questions and learn from data.
+Metabase is the easy, open source way for everyone in your company to ask questions and learn from the data.
 
 ![Metabase Product Screenshot](docs/metabase-product-screenshot.png)
 
